@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" version="2.5">
+  <servlet>
+    <description></description>
+    <display-name>DeleteQuestion</display-name>
+    <servlet-name>DeleteQuestion</servlet-name>
+    <servlet-class>com.revature.DeleteQuestion</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>DeleteQuestion</servlet-name>
+    <url-pattern>/DeleteQuestion</url-pattern>
+  </servlet-mapping>
+  <display-name>p1-tfms</display-name>
+  <welcome-file-list>
+    <welcome-file>Homepage.html</welcome-file>
+  </welcome-file-list>
+  <servlet>
+    <description></description>
+    <display-name>DeleteQuestionServlet</display-name>
+    <servlet-name>DeleteQuestionServlet</servlet-name>
+    <servlet-class>com.revature.DeleteQuestion</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>DeleteQuestionServlet</servlet-name>
+    <url-pattern>/DeleteQuestionServlet</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>DeleteQuestionDetails</display-name>
+    <servlet-name>DeleteQuestionDetails</servlet-name>
+    <servlet-class>com.revature.DeleteQuestion</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>DeleteQuestionDetails</servlet-name>
+    <url-pattern>/DeleteQuestionDetails</url-pattern>
+  </servlet-mapping>
+ 
+</web-app>
