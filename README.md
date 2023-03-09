@@ -8,9 +8,3 @@ P1-Trainee Feedback Management System This is a project to provide the rating fo
                                                                                                      <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 
-
-git clone https://github.com/jgeekgd/sanjivani-training-material.git
-cd sanjivani-training-material
-git pull
-git merge
-exit
