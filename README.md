@@ -9,10 +9,11 @@ P1-Trainee Feedback Management System This is a project to provide the rating fo
 
 
 git clone https://github.com/kunaldpatil07/p1-tfms-foundation.git
-cd sanjivani-training-material
+cd p1-tfms-foundation
 git pull
 git merge
 exit
-                                                                                                     <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                 
+                                                                                                 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 
